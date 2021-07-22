@@ -1,0 +1,6 @@
+[submodule "linux_learning"]
+	path = linux_learning
+	url = git@github.com:bjzhang/linux_learning.git
+[submodule "open_log"]
+	path = open_log
+	url = git@github.com:bjzhang/open_log.git
